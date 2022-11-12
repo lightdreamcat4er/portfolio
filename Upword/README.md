@@ -6,7 +6,7 @@
 
 #### Format: figma
 
-Link to website: https://lightdreamcat4er.github.io/front-end/Upword/index.html
+Link to website: https://lightdreamcat4er.github.io/portfolio/Upword/index.html
 
 You can find the layout of this project in the "Source" folder or open it from the link below:
 https://www.figma.com/file/wVekta8YcAhHsxjNowAJMq/Upword?node-id=0%3A1
