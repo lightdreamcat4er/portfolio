@@ -193,6 +193,7 @@ body.lock {
 }
 
 .header__about {
+	display: none;
 	position: relative;
 	z-index: 10;
 }
@@ -1118,6 +1119,9 @@ body.lock {
 .footer__list li{
 	margin-right: 15px;
 }
+.footer__list li:first-child{
+	display: none;
+}
 .footer__link {
 	font-size: 18px;
 	color: #1B2535;
@@ -1136,6 +1140,7 @@ body.lock {
 	opacity: 1;
 }
 .footer__info {
+	display: none;
 	transform: translate(0px, 120%);
 	opacity: 0;
 	transition: all 0.4s ease 0s;
