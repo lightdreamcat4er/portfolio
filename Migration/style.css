@@ -164,6 +164,7 @@ body.lock {
 	width: 100%;
 	z-index: 30;
 	background-color: #fff;
+	opacity: 1;
 }
 
 .header__container {
